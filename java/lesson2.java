@@ -1,7 +1,7 @@
-package java;
+https://github.com/cjqxss123/learningProgress/blob/main/java/lesson2.javapackage java;
 
 public class lesson2 {
-	// variable is given to a identifier such as age height and the like
+	// variable is given to a identifier such as age height
 	// types are int double String;
 	public static void main(String[] args) {
 		String name = "toyota";// given the name equals to toyed
